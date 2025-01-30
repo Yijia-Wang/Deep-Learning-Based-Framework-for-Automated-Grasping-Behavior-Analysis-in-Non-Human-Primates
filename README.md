@@ -32,4 +32,5 @@ Incorporates an error detection mechanism to improve reliability.
 
 📌 Installation & Dependencies
 To use this framework, install the following dependencies:
+
 pip install numpy pandas matplotlib scipy opencv-python
